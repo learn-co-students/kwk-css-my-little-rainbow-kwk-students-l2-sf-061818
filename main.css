@@ -9,7 +9,45 @@ div {
   border-right-color: transparent; /* the right side */
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
-
-#violet {
-  background-color: blue;
+#red{
+  border-top-color: #f00;
+  border-left-color: transparent; /* these remove the color from the left side */
+  border-right-color: transparent; /* the right side */
+  border-bottom-color: transparent; /* and the bottom of the circle */
+}
+#orange{
+  border-top-color:orange;
+  border-left-color: transparent;
+  border-right-color: transparent;
+  border-bottom-color: transparent;
+}
+#yellow{
+  border-top-color:yellow;
+  border-left-color: transparent;
+  border-right-color: transparent;
+  border-bottom-color: transparent;
+}
+#green{
+  border-top-color:green;
+  border-left-color: transparent;
+  border-right-color: transparent;
+  border-bottom-color: transparent;
+}
+#blue{
+  border-top-color:blue;
+  border-left-color: transparent;
+  border-right-color: transparent;
+  border-bottom-color: transparent;
+}
+#indigo{
+  border-top-color:#4B0082;
+  border-left-color: transparent;
+  border-right-color: transparent;
+  border-bottom-color: transparent;
+}
+#violet{
+  border-top-color:#ee82ee;
+  border-left-color: transparent;
+  border-right-color: transparent;
+  border-bottom-color: transparent;
 }
